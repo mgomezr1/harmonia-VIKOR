@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "Si usa este software, cítelo como se indica a continuación."
+title: "Harmonía VIKOR"
+version: "1.0"
+date-released: 2026-09-30
+type: software
+authors:
+  - family-names: "Gómez Rueda"
+    given-names: "Mario Sergio"
+    email: "mgomezr1@gmail.com"
+url: "https://mgomezr1.github.io/harmonia-vikor/"
+repository-code: "https://github.com/mgomezr1/harmonia-vikor"
+abstract: "Aplicación web académica para el método VIKOR de solución de compromiso multicriterio: lejanías normalizadas, utilidad de grupo, arrepentimiento individual, índice Q, condiciones de aceptación, pesos digitados o por entropía, sensibilidad e informes en Excel y PDF."
+keywords:
+  - VIKOR
+  - decisión multicriterio
+  - solución de compromiso
+  - educación
+license-url: "https://github.com/mgomezr1/harmonia-vikor/blob/main/LICENSE.md"
